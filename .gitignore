@@ -1,0 +1,10 @@
+# 忽略 SolidWorks 临时文件
+~$*
+*.swp
+*.bak
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+
+# 如果你想保留某些 STEP 文件，就不写下面这行
+# *.STEP
