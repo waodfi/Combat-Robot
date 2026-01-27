@@ -84,7 +84,7 @@
 ## 📬 交流与反馈
 
 - **B站**：[mcal](https://www.bilibili.com/video/BV1gw6TBiE7N/?share_source=copy_web&vd_source=a998e92c1b86bb5aa1bb133dd478c7e1) 
-- **邮箱**：[1905360479@qq.com]
+- **邮箱**：1905360479@qq.com
 - **交流群**：[996144753](https://qm.qq.com/q/qZX7Dcy9eE)
 
 ## ❤️ 总结展望
