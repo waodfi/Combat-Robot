@@ -83,7 +83,7 @@
 
 ## 📬 交流与反馈
 
-- **B站**：[mcal](【【自制】轮式格斗小车＆格斗擂台（机器人比赛）丨机械结构开源】 https://www.bilibili.com/video/BV1gw6TBiE7N/?share_source=copy_web&vd_source=a998e92c1b86bb5aa1bb133dd478c7e1) 
+- **B站**：[mcal](https://www.bilibili.com/video/BV1gw6TBiE7N/?share_source=copy_web&vd_source=a998e92c1b86bb5aa1bb133dd478c7e1) 
 - **邮箱**：[1905360479@qq.com](mailto:1905360479@qq.com)
 - **交流群**：[996144753](https://qm.qq.com/q/qZX7Dcy9eE)
 
